@@ -68,7 +68,7 @@ export const Search = () => {
             <input
               id="mobile_number"
               name="mobile_number"
-              type="text"
+              type="number"
               required={true}
               placeholder="Enter a customer's phone number"
               value={mobileNumber}
